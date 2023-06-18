@@ -1,0 +1,6 @@
+.media{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 50%;
+    width: 50%;
+}
